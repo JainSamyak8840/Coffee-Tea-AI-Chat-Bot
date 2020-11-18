@@ -1,6 +1,6 @@
 # Implementation of a Coffee&Tea Shop Chatbot in PyTorch.  
 Chatbot implementation with PyTorch. 
-- The implementation is with a Feed Forward Neural net with 2 hidden layers.
+- The implementation is done with a Feed Forward Neural net with 2 hidden layers.
 
 
 ## Installation
